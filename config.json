@@ -1,0 +1,8 @@
+{
+  "debugmode": "true",
+  "connectioncluster": "'aws'",
+  "reconnectmode": "true",
+  "username": "'HeyJack'",
+  "password": "'oauth:w42uwx0u2fgdrxfhy13hsiunubu711'",
+  "channels": "['HeyJack']"
+}
